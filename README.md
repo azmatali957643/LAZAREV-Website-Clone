@@ -12,6 +12,12 @@ This site demonstrates **attention to detail, branding consistency, and a premiu
 
 ---
 
+## 🚀 Live Demo
+-🔗 **Click here to view project
+      http://127.0.0.1:5500/index.html
+
+---
+
 ## 🚀 Features
 - 🎨 **High-end UI/UX** with clean design
 - 🖱️ **Smooth scrolling** (Locomotive Scroll integration)
@@ -37,17 +43,13 @@ This site demonstrates **attention to detail, branding consistency, and a premiu
  ┣ 📄 index.html      # Main HTML file
  ┣ 📄 style.css       # Styling and layout
  ┣ 📄 script.js       # Animations and interactions
- ┣ 🖼️ Screenshot.png  # Project preview
+
 
 🎯 Learning Highlights
 -Building real-world inspired website clones
 -Implementing animation libraries for UX enhancement
 -Designing responsive and visually appealing layouts
 -Practicing frontend best practices for performance and scalability
-
-🚀 Live Demo
-🔗 Click here to view project
-http://127.0.0.1:5500/index.html
 
 🤝 Contribution
 Contributions, ideas, and feature requests are welcome!
