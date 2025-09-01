@@ -8,7 +8,7 @@ The aim of this project is to:
 - Showcase **real-world website replication skills**
 - Practice **GSAP animation workflows** and **scroll-based effects**
 - Build a **fully responsive, portfolio-worthy project**  
-This site demonstrates **attention to detail, branding consistency, and a premium design aesthetic** that reflects a professional agency's online presence.
+- This site demonstrates **attention to detail, branding consistency, and a premium design aesthetic** that reflects a professional agency's online presence.
       
 ---
 
@@ -32,10 +32,10 @@ This site demonstrates **attention to detail, branding consistency, and a premiu
 ---
 
 ## 🎯 Learning Highlights
-- **Building real-world inspired website clones
-- **Implementing animation libraries for UX enhancement
-- **Designing responsive and visually appealing layouts
-- **Practicing frontend best practices for performance and scalability
+- Building real-world inspired website clones
+- Implementing animation libraries for UX enhancement
+- Designing responsive and visually appealing layouts
+- Practicing frontend best practices for performance and scalability
 
 ---
 
@@ -57,7 +57,7 @@ Azmat Ali – Passionate about Frontend Development, UI/UX Design, and Web Anima
 ---
 
 ## 🚀 Live Demo
- -🔗 **Click here to view project
+ - 🔗 Click here to view project
      http://127.0.0.1:5500/index.html
 
 ---
