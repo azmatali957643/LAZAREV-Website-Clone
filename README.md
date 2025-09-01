@@ -32,10 +32,10 @@ This site demonstrates **attention to detail, branding consistency, and a premiu
 ---
 
 ## 🎯 Learning Highlights
--Building real-world inspired website clones
--Implementing animation libraries for UX enhancement
--Designing responsive and visually appealing layouts
--Practicing frontend best practices for performance and scalability
+- **Building real-world inspired website clones
+- **Implementing animation libraries for UX enhancement
+- **Designing responsive and visually appealing layouts
+- **Practicing frontend best practices for performance and scalability
 
 ---
 
