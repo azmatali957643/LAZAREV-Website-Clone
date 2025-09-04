@@ -63,7 +63,7 @@ It highlights **animation, interactivity, and modern UX/UI principles**:
 
 ## 🔧 Installation & Setup
 
-```bash
+
 # Clone this repository
 git clone https://github.com/azmatali957643/nexaui-landing-page.git
 
