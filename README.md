@@ -1,4 +1,4 @@
-# 🚀 NexaUI – AI&ML Product Design Agency Landing Page
+# 🚀 NexaUI – AI&ML Product Design Agency Website
 
 A **visually rich**, **fully responsive**, and **interactive landing page** designed for a fictional **UI/UX and Product Design Agency**.  
 This project demonstrates **cutting-edge front-end development**, **GSAP animations**, and **modern web design practices**.
@@ -51,29 +51,7 @@ It highlights **animation, interactivity, and modern UX/UI principles**:
 
 ---
 
-## 📂 Project Structure
-
-NexaUI/
-├── index.html # Main HTML file
-├── style.css # Styling and layout
-├── script.js # Animation and interactions
-└── assets/ # Images, videos, icons
-
----
-
-## 🔧 Installation & Setup
-
-# Clone this repository
-git clone https://github.com/azmatali957643/nexaui-landing-page.git
-
-# Navigate to the folder
-cd nexaui-landing-page
-
-# Open index.html in your browser
-
----
-
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 Mastered GSAP animations with scroll-triggered effects
 
@@ -85,7 +63,7 @@ Gained experience in interactive design workflows
 
 ---
 
-📈 Future Improvements
+## 📈 Future Improvements
 
 🔥 Add backend or CMS integration
 
@@ -95,20 +73,20 @@ Gained experience in interactive design workflows
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License – free to use and modify.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Azmat Ali
 azmatali786786a@gmail.com
