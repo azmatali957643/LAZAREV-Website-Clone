@@ -53,11 +53,11 @@ It highlights **animation, interactivity, and modern UX/UI principles**:
 
 ## 📂 Project Structure
 
-📦 NexaUI
-┣ 📜 index.html  Main HTML file
-┣ 📜 style.css  Styling and layout
-┣ 📜 script.js  Animation and interactions
-┗ 📂 assets  Images, videos, icons
+NexaUI/
+├── index.html # Main HTML file
+├── style.css # Styling and layout
+├── script.js # Animation and interactions
+└── assets/ # Images, videos, icons
 
 ---
 
