@@ -52,17 +52,18 @@ It highlights **animation, interactivity, and modern UX/UI principles**:
 ---
 
 ## 📂 Project Structure
+---
 
 📦 NexaUI
-┣ 📜 index.html # Main HTML file
-┣ 📜 style.css # Styling and layout
-┣ 📜 script.js # Animation and interactions
-┗ 📂 assets # Images, videos, icons
+┣ 📜 index.html  Main HTML file
+┣ 📜 style.css  Styling and layout
+┣ 📜 script.js  Animation and interactions
+┗ 📂 assets  Images, videos, icons
 
 ---
 
 ## 🔧 Installation & Setup
-
+---
 
 # Clone this repository
 git clone https://github.com/azmatali957643/nexaui-landing-page.git
@@ -72,6 +73,8 @@ cd nexaui-landing-page
 
 # Open index.html in your browser
 🎯 Learning Outcomes
+---
+
 Mastered GSAP animations with scroll-triggered effects
 
 Learned Locomotive Scroll for advanced page transitions
@@ -81,6 +84,7 @@ Built a modern, responsive website with professional UI/UX
 Gained experience in interactive design workflows
 
 📈 Future Improvements
+---
 
 🔥 Add backend or CMS integration
 
@@ -89,13 +93,19 @@ Gained experience in interactive design workflows
 🖥️ Add more case study sections
 
 🤝 Contributing
+---
+
 Contributions, issues, and feature requests are welcome!
 Feel free to fork this repo and submit a pull request.
 
 📜 License
+---
+
 This project is licensed under the MIT License – free to use and modify.
 
 👨‍💻 Author
+---
+
 Azmat Ali
 azmatali786786a@gmail.com
 GitHub: https://github.com/azmatali957643
